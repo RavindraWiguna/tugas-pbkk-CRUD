@@ -1,6 +1,6 @@
-TUGAS PBKK CRUD
-PUTU RAVINDRA WIGUNA
-5025201237
+TUGAS PBKK CRUD<br>
+PUTU RAVINDRA WIGUNA<br>
+5025201237<br>
 1. Tampilan list data<br>
 ![Alt text](/readme-img/tampilan%20awal.png?raw=true "Title")
 
